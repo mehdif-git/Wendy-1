@@ -14,3 +14,12 @@ Additional notes and log reports are in the Notes folder.
 
 For now the project is a WiP and is mostly thouhght up as a way to apply signal analysis and electronic theory.
 
+# Blogposts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
