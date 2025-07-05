@@ -8,7 +8,7 @@ title : Wendy-1, my first synth
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
+      <a href="{{ site.baseurl | append: post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
     </li>
   {% endfor %}
 </ul>
