@@ -3,3 +3,7 @@ theme : jekyll-theme-architect
 title: Wendy-1, my first synth project.
 description: Project updates and ressources.
 author: mehdif-git
+
+baseurl: "/Wendy-1" # NOTE: Must start with a slash
+url: "https://mehdif-git.github.io"
+
