@@ -81,3 +81,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+# Custom lines
+theme : jekyll-theme-architect
+title: Wendy-1 : My first Synth Project
+description: Project updates and ressources.
