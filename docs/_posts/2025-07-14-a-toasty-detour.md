@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "a-toasty-detour"
 date: 2025-07-14
-categories: [blog]
 ---
 # A *toasty* detour
 Hi!
