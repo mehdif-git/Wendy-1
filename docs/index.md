@@ -12,3 +12,5 @@ title : Wendy-1, my first synth
     </li>
   {% endfor %}
 </ul>
+
+<p>Found {{ site.posts | size }} posts.</p>
