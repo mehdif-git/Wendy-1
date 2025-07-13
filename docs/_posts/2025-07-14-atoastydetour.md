@@ -2,6 +2,7 @@
 title: "a-toasty-detour"
 date: 2025-07-14
 ---
+
 # A *toasty* detour
 Hi!
 
