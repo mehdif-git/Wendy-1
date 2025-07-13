@@ -1,5 +1,5 @@
 ---
-title: "a-toasty-detour"
+title: "A toasty detour"
 date: 2025-07-14
 ---
 
