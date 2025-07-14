@@ -1,6 +1,6 @@
 ---
 title: "A toasty detour"
-date: 2025-07-14
+date: 2025-07-13
 ---
 
 # A *toasty* detour
